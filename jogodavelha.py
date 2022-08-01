@@ -1,3 +1,6 @@
+#Feito e produzido por Husky Siberiano Gamer_
+#créditos para a pessoas que deu o tutorial ❤
+
 import tkinter
 from tkinter import *
 from tkinter import ttk
